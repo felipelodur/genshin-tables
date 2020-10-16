@@ -18,14 +18,17 @@ white-space: nowrap;
 td, th {
   border: 1px solid #dddddd;
   text-align: left;
-  padding: 8px;
+  padding: 2px;
 }
+
 
 .w-table__cell {
    text-align: center;
 }
 
-
+img.w-table__img {
+    max-width: 50%;
+}
 
 
 </style>
