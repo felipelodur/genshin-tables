@@ -4,7 +4,7 @@
 -webkit-font-smoothing: antialiased;
 font-family: Arial,sans-serif;
 direction: ltr;
-text-align: left;
+text-align: center;
 color: #333;
 font-size: 1.0625rem;
 line-height: 1.875rem;
@@ -21,10 +21,9 @@ td, th {
   padding: 8px;
 }
 
-tr:nth-child(even) {
-  background-color: #dddddd;
+.w-table__cell {
+   text-align: center;
 }
-
 
 
 
