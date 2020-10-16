@@ -25,8 +25,7 @@ tr:nth-child(even) {
 }
 </style>
 
-<div class="article__widget article__widget--table">
-    <table class="w-table"> 
+<table class="w-table"> 
                             <tbody><tr class="w-table__row">
                                     <td class="w-table__cell">
                                                     <p class="article__paragraph"></p><p style="text-align:center;"><strong>Characters</strong></p><p></p>
@@ -384,4 +383,3 @@ tr:nth-child(even) {
                                             </td>
                             </tr>
             </tbody></table>
-</div>
