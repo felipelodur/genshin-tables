@@ -1,5 +1,5 @@
 <style>
-table {
+w-table {
 -webkit-font-smoothing: antialiased;
 font-family: Arial,sans-serif;
 direction: ltr;
