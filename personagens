@@ -1,0 +1,360 @@
+<div class="article__widget article__widget--table">
+    <table class="w-table"> 
+                            <tbody><tr class="w-table__row">
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;"><strong>Characters</strong></p><p></p>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;"><strong>Rank</strong></p><p></p>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;"><strong>Role &amp;</strong></p><p style="text-align:center;"><strong>Element</strong></p><p></p>
+                                            </td>
+                            </tr>
+                    <tr class="w-table__row">
+                                    <td class="w-table__cell">
+                                                    <figure class="w-table__media">
+                                <picture class="w-table__picture">
+                                    <img src="https://static1-www.millenium.gg/articles/3/20/58/3/@/200526-character-diluc-thumb-orig-1-64x64-1.png" alt="" class="w-table__img" data-lum-full="https://static1-www.millenium.gg/articles/3/20/58/3/@/200526-character-diluc-thumb-orig-1-full-1.png" data-lum-mobile="https://static1-www.millenium.gg/articles/3/20/58/3/@/200526-character-diluc-thumb-orig-1-article_image_bd-1.png" data-lum="https://static1-www.millenium.gg/articles/3/20/58/3/@/200526-character-diluc-thumb-orig-1-full-1.png">                                </picture>
+                                                                                                    <figcaption class="w-table__legend"><p class="article__paragraph">Diluc</p></figcaption>
+                                                            </figure>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;"><strong>S</strong></p><p></p>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;">DPS / <span style="color:#e85050;"><strong>Pyro</strong></span></p><p></p>
+                                            </td>
+                            </tr>
+                    <tr class="w-table__row">
+                                    <td class="w-table__cell">
+                                                    <figure class="w-table__media">
+                                <picture class="w-table__picture">
+                                    <img src="https://static1-www.millenium.gg/articles/3/20/58/3/@/200527-character-fischl-thumb-orig-1-64x64-1.png" alt="" class="w-table__img" data-lum-full="https://static1-www.millenium.gg/articles/3/20/58/3/@/200527-character-fischl-thumb-orig-1-full-1.png" data-lum-mobile="https://static1-www.millenium.gg/articles/3/20/58/3/@/200527-character-fischl-thumb-orig-1-article_image_bd-1.png" data-lum="https://static1-www.millenium.gg/articles/3/20/58/3/@/200527-character-fischl-thumb-orig-1-full-1.png">                                </picture>
+                                                                                                    <figcaption class="w-table__legend"><p class="article__paragraph">Fischl</p></figcaption>
+                                                            </figure>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;"><strong>S</strong></p><p></p>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;">Support / <span style="color:#9965e0;"><strong>Electro</strong></span></p><p></p>
+                                            </td>
+                            </tr>
+                    <tr class="w-table__row">
+                                    <td class="w-table__cell">
+                                                    <figure class="w-table__media">
+                                <picture class="w-table__picture">
+                                    <img src="https://static1-www.millenium.gg/articles/3/20/58/3/@/200528-character-qiqi-thumb-orig-1-64x64-1.png" alt="" class="w-table__img" data-lum-full="https://static1-www.millenium.gg/articles/3/20/58/3/@/200528-character-qiqi-thumb-orig-1-full-1.png" data-lum-mobile="https://static1-www.millenium.gg/articles/3/20/58/3/@/200528-character-qiqi-thumb-orig-1-article_image_bd-1.png" data-lum="https://static1-www.millenium.gg/articles/3/20/58/3/@/200528-character-qiqi-thumb-orig-1-full-1.png">                                </picture>
+                                                                                                    <figcaption class="w-table__legend"><p class="article__paragraph">Qiqi</p></figcaption>
+                                                            </figure>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;"><strong>S</strong></p><p></p>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;">Healer / <span style="color:#37a8cd;"><strong>Cryo</strong></span></p><p></p>
+                                            </td>
+                            </tr>
+                    <tr class="w-table__row">
+                                    <td class="w-table__cell">
+                                                    <figure class="w-table__media">
+                                <picture class="w-table__picture">
+                                    <img src="https://static1-www.millenium.gg/articles/3/20/58/3/@/200529-character-venti-thumb-orig-1-64x64-1.png" alt="" class="w-table__img" data-lum-full="https://static1-www.millenium.gg/articles/3/20/58/3/@/200529-character-venti-thumb-orig-1-full-1.png" data-lum-mobile="https://static1-www.millenium.gg/articles/3/20/58/3/@/200529-character-venti-thumb-orig-1-article_image_bd-1.png" data-lum="https://static1-www.millenium.gg/articles/3/20/58/3/@/200529-character-venti-thumb-orig-1-full-1.png">                                </picture>
+                                                                                                    <figcaption class="w-table__legend"><p class="article__paragraph">Venti</p></figcaption>
+                                                            </figure>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;"><strong>S</strong></p><p></p>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;">Support / <span style="color:#30b0a5;"><strong>Anemo</strong></span></p><p></p>
+                                            </td>
+                            </tr>
+                    <tr class="w-table__row">
+                                    <td class="w-table__cell">
+                                                    <figure class="w-table__media">
+                                <picture class="w-table__picture">
+                                    <img src="https://static1-www.millenium.gg/articles/3/20/58/3/@/200530-razor-64x64-2.png" alt="" class="w-table__img" data-lum-full="https://static1-www.millenium.gg/articles/3/20/58/3/@/200530-razor-full-2.png" data-lum-mobile="https://static1-www.millenium.gg/articles/3/20/58/3/@/200530-razor-article_image_bd-2.png" data-lum="https://static1-www.millenium.gg/articles/3/20/58/3/@/200530-razor-full-2.png">                                </picture>
+                                                                                                    <figcaption class="w-table__legend"><p class="article__paragraph">Razor</p></figcaption>
+                                                            </figure>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;"><strong>A</strong></p><p></p>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;">DPS / <span style="color:#9965e0;"><strong>Electro</strong></span></p><p></p>
+                                            </td>
+                            </tr>
+                    <tr class="w-table__row">
+                                    <td class="w-table__cell">
+                                                    <figure class="w-table__media">
+                                <picture class="w-table__picture">
+                                    <img src="https://static1-www.millenium.gg/articles/3/20/58/3/@/200531-character-mona-thumb-orig-1-64x64-1.png" alt="" class="w-table__img" data-lum-full="https://static1-www.millenium.gg/articles/3/20/58/3/@/200531-character-mona-thumb-orig-1-full-1.png" data-lum-mobile="https://static1-www.millenium.gg/articles/3/20/58/3/@/200531-character-mona-thumb-orig-1-article_image_bd-1.png" data-lum="https://static1-www.millenium.gg/articles/3/20/58/3/@/200531-character-mona-thumb-orig-1-full-1.png">                                </picture>
+                                                                                                    <figcaption class="w-table__legend"><p class="article__paragraph">Mona</p></figcaption>
+                                                            </figure>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;"><strong>A</strong></p><p></p>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;">Support / <span style="color:#5a89f4;"><strong>Hydro</strong></span></p><p></p>
+                                            </td>
+                            </tr>
+                    <tr class="w-table__row">
+                                    <td class="w-table__cell">
+                                                    <figure class="w-table__media">
+                                <picture class="w-table__picture">
+                                    <img src="https://static1-www.millenium.gg/articles/3/20/58/3/@/200532-keqing-64x64-2.png" alt="" class="w-table__img" data-lum-full="https://static1-www.millenium.gg/articles/3/20/58/3/@/200532-keqing-full-2.png" data-lum-mobile="https://static1-www.millenium.gg/articles/3/20/58/3/@/200532-keqing-article_image_bd-2.png" data-lum="https://static1-www.millenium.gg/articles/3/20/58/3/@/200532-keqing-full-2.png">                                </picture>
+                                                                                                    <figcaption class="w-table__legend"><p class="article__paragraph">Keqing</p></figcaption>
+                                                            </figure>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;"><strong>A</strong></p><p></p>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;">DPS / <span style="color:#9965e0;"><strong>Electro</strong></span></p><p></p>
+                                            </td>
+                            </tr>
+                    <tr class="w-table__row">
+                                    <td class="w-table__cell">
+                                                    <figure class="w-table__media">
+                                <picture class="w-table__picture">
+                                    <img src="https://static1-www.millenium.gg/articles/3/20/58/3/@/200533-character-jean-thumb-orig-1-64x64-1.png" alt="" class="w-table__img" data-lum-full="https://static1-www.millenium.gg/articles/3/20/58/3/@/200533-character-jean-thumb-orig-1-full-1.png" data-lum-mobile="https://static1-www.millenium.gg/articles/3/20/58/3/@/200533-character-jean-thumb-orig-1-article_image_bd-1.png" data-lum="https://static1-www.millenium.gg/articles/3/20/58/3/@/200533-character-jean-thumb-orig-1-full-1.png">                                </picture>
+                                                                                                    <figcaption class="w-table__legend"><p class="article__paragraph">Jean</p></figcaption>
+                                                            </figure>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;"><strong>A</strong></p><p></p>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;">Healer / <span style="color:#30b0a5;"><strong>Anemo</strong></span></p><p></p>
+                                            </td>
+                            </tr>
+                    <tr class="w-table__row">
+                                    <td class="w-table__cell">
+                                                    <figure class="w-table__media">
+                                <picture class="w-table__picture">
+                                    <img src="https://static1-www.millenium.gg/articles/3/20/58/3/@/200534-character-chongyun-thumb-orig-1-64x64-1.png" alt="" class="w-table__img" data-lum-full="https://static1-www.millenium.gg/articles/3/20/58/3/@/200534-character-chongyun-thumb-orig-1-full-1.png" data-lum-mobile="https://static1-www.millenium.gg/articles/3/20/58/3/@/200534-character-chongyun-thumb-orig-1-article_image_bd-1.png" data-lum="https://static1-www.millenium.gg/articles/3/20/58/3/@/200534-character-chongyun-thumb-orig-1-full-1.png">                                </picture>
+                                                                                                    <figcaption class="w-table__legend"><p class="article__paragraph">Chongyun</p></figcaption>
+                                                            </figure>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;"><strong>A</strong></p><p></p>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;">DPS / <span style="color:#37a8cd;"><strong>Cryo</strong></span></p><p></p>
+                                            </td>
+                            </tr>
+                    <tr class="w-table__row">
+                                    <td class="w-table__cell">
+                                                    <figure class="w-table__media">
+                                <picture class="w-table__picture">
+                                    <img src="https://static1-www.millenium.gg/articles/3/20/58/3/@/200535-xiangling-64x64-2.png" alt="" class="w-table__img" data-lum-full="https://static1-www.millenium.gg/articles/3/20/58/3/@/200535-xiangling-full-2.png" data-lum-mobile="https://static1-www.millenium.gg/articles/3/20/58/3/@/200535-xiangling-article_image_bd-2.png" data-lum="https://static1-www.millenium.gg/articles/3/20/58/3/@/200535-xiangling-full-2.png">                                </picture>
+                                                                                                    <figcaption class="w-table__legend"><p class="article__paragraph">Xiangling</p></figcaption>
+                                                            </figure>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;"><strong>A</strong></p><p></p>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;">DPS / <span style="color:#e85050;"><strong>Pyro</strong></span></p><p></p>
+                                            </td>
+                            </tr>
+                    <tr class="w-table__row">
+                                    <td class="w-table__cell">
+                                                    <figure class="w-table__media">
+                                <picture class="w-table__picture">
+                                    <img src="https://static1-www.millenium.gg/articles/3/20/58/3/@/200536-xiao-64x64-2.png" alt="" class="w-table__img" data-lum-full="https://static1-www.millenium.gg/articles/3/20/58/3/@/200536-xiao-full-2.png" data-lum-mobile="https://static1-www.millenium.gg/articles/3/20/58/3/@/200536-xiao-article_image_bd-2.png" data-lum="https://static1-www.millenium.gg/articles/3/20/58/3/@/200536-xiao-full-2.png">                                </picture>
+                                                                                                    <figcaption class="w-table__legend"><p class="article__paragraph">Xiao</p></figcaption>
+                                                            </figure>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;"><strong>A</strong></p><p></p>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;">Support / <span style="color:#30b0a5;"><strong>Anemo</strong></span></p><p></p>
+                                            </td>
+                            </tr>
+                    <tr class="w-table__row">
+                                    <td class="w-table__cell">
+                                                    <figure class="w-table__media">
+                                <picture class="w-table__picture">
+                                    <img src="https://static1-www.millenium.gg/articles/3/20/58/3/@/200537-character-ningguang-thumb-orig-1-64x64-1.png" alt="" class="w-table__img" data-lum-full="https://static1-www.millenium.gg/articles/3/20/58/3/@/200537-character-ningguang-thumb-orig-1-full-1.png" data-lum-mobile="https://static1-www.millenium.gg/articles/3/20/58/3/@/200537-character-ningguang-thumb-orig-1-article_image_bd-1.png" data-lum="https://static1-www.millenium.gg/articles/3/20/58/3/@/200537-character-ningguang-thumb-orig-1-full-1.png">                                </picture>
+                                                                                                    <figcaption class="w-table__legend"><p class="article__paragraph">Ningguang</p></figcaption>
+                                                            </figure>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;"><strong>B</strong></p><p></p>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;">DPS / <span style="color:#e1ad31;"><strong>Geo</strong></span></p><p></p>
+                                            </td>
+                            </tr>
+                    <tr class="w-table__row">
+                                    <td class="w-table__cell">
+                                                    <figure class="w-table__media">
+                                <picture class="w-table__picture">
+                                    <img src="https://static1-www.millenium.gg/articles/3/20/58/3/@/200538-character-noelle-thumb-orig-1-64x64-1.png" alt="" class="w-table__img" data-lum-full="https://static1-www.millenium.gg/articles/3/20/58/3/@/200538-character-noelle-thumb-orig-1-full-1.png" data-lum-mobile="https://static1-www.millenium.gg/articles/3/20/58/3/@/200538-character-noelle-thumb-orig-1-article_image_bd-1.png" data-lum="https://static1-www.millenium.gg/articles/3/20/58/3/@/200538-character-noelle-thumb-orig-1-full-1.png">                                </picture>
+                                                                                                    <figcaption class="w-table__legend"><p class="article__paragraph">Noelle</p></figcaption>
+                                                            </figure>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;"><strong>B</strong></p><p></p>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;">DPS / <span style="color:#e1ad31;"><strong>Geo</strong></span></p><p></p>
+                                            </td>
+                            </tr>
+                    <tr class="w-table__row">
+                                    <td class="w-table__cell">
+                                                    <figure class="w-table__media">
+                                <picture class="w-table__picture">
+                                    <img src="https://static1-www.millenium.gg/articles/3/20/58/3/@/200539-character-klee-thumb-orig-1-64x64-1.png" alt="" class="w-table__img" data-lum-full="https://static1-www.millenium.gg/articles/3/20/58/3/@/200539-character-klee-thumb-orig-1-full-1.png" data-lum-mobile="https://static1-www.millenium.gg/articles/3/20/58/3/@/200539-character-klee-thumb-orig-1-article_image_bd-1.png" data-lum="https://static1-www.millenium.gg/articles/3/20/58/3/@/200539-character-klee-thumb-orig-1-full-1.png">                                </picture>
+                                                                                                    <figcaption class="w-table__legend"><p class="article__paragraph">Klee</p></figcaption>
+                                                            </figure>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;"><strong>B</strong></p><p></p>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;">DPS / <span style="color:#e85050;"><strong>Pyro</strong></span></p><p></p>
+                                            </td>
+                            </tr>
+                    <tr class="w-table__row">
+                                    <td class="w-table__cell">
+                                                    <figure class="w-table__media">
+                                <picture class="w-table__picture">
+                                    <img src="https://static1-www.millenium.gg/articles/3/20/58/3/@/200540-character-kaeya-thumb-orig-1-64x64-1.png" alt="" class="w-table__img" data-lum-full="https://static1-www.millenium.gg/articles/3/20/58/3/@/200540-character-kaeya-thumb-orig-1-full-1.png" data-lum-mobile="https://static1-www.millenium.gg/articles/3/20/58/3/@/200540-character-kaeya-thumb-orig-1-article_image_bd-1.png" data-lum="https://static1-www.millenium.gg/articles/3/20/58/3/@/200540-character-kaeya-thumb-orig-1-full-1.png">                                </picture>
+                                                                                                    <figcaption class="w-table__legend"><p class="article__paragraph">Kaeya</p></figcaption>
+                                                            </figure>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;"><strong>B</strong></p><p></p>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;">Support / <span style="color:#37a8cd;"><strong>Cryo</strong></span></p><p></p>
+                                            </td>
+                            </tr>
+                    <tr class="w-table__row">
+                                    <td class="w-table__cell">
+                                                    <figure class="w-table__media">
+                                <picture class="w-table__picture">
+                                    <img src="https://static1-www.millenium.gg/articles/3/20/58/3/@/200541-barbara-64x64-2.png" alt="" class="w-table__img" data-lum-full="https://static1-www.millenium.gg/articles/3/20/58/3/@/200541-barbara-full-2.png" data-lum-mobile="https://static1-www.millenium.gg/articles/3/20/58/3/@/200541-barbara-article_image_bd-2.png" data-lum="https://static1-www.millenium.gg/articles/3/20/58/3/@/200541-barbara-full-2.png">                                </picture>
+                                                                                                    <figcaption class="w-table__legend"><p class="article__paragraph">Barbara</p></figcaption>
+                                                            </figure>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;"><strong>B</strong></p><p></p>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;">Healer / <span style="color:#5a89f4;"><strong>Hydro</strong></span></p><p></p>
+                                            </td>
+                            </tr>
+                    <tr class="w-table__row">
+                                    <td class="w-table__cell">
+                                                    <figure class="w-table__media">
+                                <picture class="w-table__picture">
+                                    <img src="https://static1-www.millenium.gg/articles/3/20/58/3/@/200542-traveller-64x64-2.png" alt="" class="w-table__img" data-lum-full="https://static1-www.millenium.gg/articles/3/20/58/3/@/200542-traveller-full-2.png" data-lum-mobile="https://static1-www.millenium.gg/articles/3/20/58/3/@/200542-traveller-article_image_bd-2.png" data-lum="https://static1-www.millenium.gg/articles/3/20/58/3/@/200542-traveller-full-2.png">                                </picture>
+                                                                                                    <figcaption class="w-table__legend"><p class="article__paragraph">Traveler</p></figcaption>
+                                                            </figure>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;"><strong>B</strong></p><p></p>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;">DPS / <span style="color:#30b0a5;"><strong>Anemo</strong></span></p><p></p>
+                                            </td>
+                            </tr>
+                    <tr class="w-table__row">
+                                    <td class="w-table__cell">
+                                                    <figure class="w-table__media">
+                                <picture class="w-table__picture">
+                                    <img src="https://static1-www.millenium.gg/articles/3/20/58/3/@/200543-xingqiu-64x64-2.png" alt="" class="w-table__img" data-lum-full="https://static1-www.millenium.gg/articles/3/20/58/3/@/200543-xingqiu-full-2.png" data-lum-mobile="https://static1-www.millenium.gg/articles/3/20/58/3/@/200543-xingqiu-article_image_bd-2.png" data-lum="https://static1-www.millenium.gg/articles/3/20/58/3/@/200543-xingqiu-full-2.png">                                </picture>
+                                                                                                    <figcaption class="w-table__legend"><p class="article__paragraph">Xingqiu</p></figcaption>
+                                                            </figure>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;"><strong>B</strong></p><p></p>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;">Support / <span style="color:#5a89f4;"><strong>Hydro</strong></span></p><p></p>
+                                            </td>
+                            </tr>
+                    <tr class="w-table__row">
+                                    <td class="w-table__cell">
+                                                    <figure class="w-table__media">
+                                <picture class="w-table__picture">
+                                    <img src="https://static1-www.millenium.gg/articles/3/20/58/3/@/200544-beidou-64x64-2.png" alt="" class="w-table__img" data-lum-full="https://static1-www.millenium.gg/articles/3/20/58/3/@/200544-beidou-full-2.png" data-lum-mobile="https://static1-www.millenium.gg/articles/3/20/58/3/@/200544-beidou-article_image_bd-2.png" data-lum="https://static1-www.millenium.gg/articles/3/20/58/3/@/200544-beidou-full-2.png">                                </picture>
+                                                                                                    <figcaption class="w-table__legend"><p class="article__paragraph">Beidou</p></figcaption>
+                                                            </figure>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;"><strong>B</strong></p><p></p>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;">DPS / <span style="color:#7373ff;"><strong>Electro</strong></span></p><p></p>
+                                            </td>
+                            </tr>
+                    <tr class="w-table__row">
+                                    <td class="w-table__cell">
+                                                    <figure class="w-table__media">
+                                <picture class="w-table__picture">
+                                    <img src="https://static1-www.millenium.gg/articles/3/20/58/3/@/200545-character-bennett-thumb-orig-1-64x64-1.png" alt="" class="w-table__img" data-lum-full="https://static1-www.millenium.gg/articles/3/20/58/3/@/200545-character-bennett-thumb-orig-1-full-1.png" data-lum-mobile="https://static1-www.millenium.gg/articles/3/20/58/3/@/200545-character-bennett-thumb-orig-1-article_image_bd-1.png" data-lum="https://static1-www.millenium.gg/articles/3/20/58/3/@/200545-character-bennett-thumb-orig-1-full-1.png">                                </picture>
+                                                                                                    <figcaption class="w-table__legend"><p class="article__paragraph">Bennett</p></figcaption>
+                                                            </figure>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;"><strong>C</strong></p><p></p>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;">DPS / <span style="color:#e85050;"><strong>Pyro</strong></span></p><p></p>
+                                            </td>
+                            </tr>
+                    <tr class="w-table__row">
+                                    <td class="w-table__cell">
+                                                    <figure class="w-table__media">
+                                <picture class="w-table__picture">
+                                    <img src="https://static1-www.millenium.gg/articles/3/20/58/3/@/200546-lisa-64x64-2.png" alt="" class="w-table__img" data-lum-full="https://static1-www.millenium.gg/articles/3/20/58/3/@/200546-lisa-full-2.png" data-lum-mobile="https://static1-www.millenium.gg/articles/3/20/58/3/@/200546-lisa-article_image_bd-2.png" data-lum="https://static1-www.millenium.gg/articles/3/20/58/3/@/200546-lisa-full-2.png">                                </picture>
+                                                                                                    <figcaption class="w-table__legend"><p class="article__paragraph">Lisa</p></figcaption>
+                                                            </figure>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;"><strong>C</strong></p><p></p>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;">Support / <span style="color:#7373ff;"><strong>Electro</strong></span></p><p></p>
+                                            </td>
+                            </tr>
+                    <tr class="w-table__row">
+                                    <td class="w-table__cell">
+                                                    <figure class="w-table__media">
+                                <picture class="w-table__picture">
+                                    <img src="https://static1-www.millenium.gg/articles/3/20/58/3/@/200547-sucrose-64x64-2.png" alt="" class="w-table__img" data-lum-full="https://static1-www.millenium.gg/articles/3/20/58/3/@/200547-sucrose-full-2.png" data-lum-mobile="https://static1-www.millenium.gg/articles/3/20/58/3/@/200547-sucrose-article_image_bd-2.png" data-lum="https://static1-www.millenium.gg/articles/3/20/58/3/@/200547-sucrose-full-2.png">                                </picture>
+                                                                                                    <figcaption class="w-table__legend"><p class="article__paragraph">Sucrose</p></figcaption>
+                                                            </figure>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;"><strong>C</strong></p><p></p>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;">Support / <span style="color:#30b0a5;"><strong>Anemo</strong></span></p><p></p>
+                                            </td>
+                            </tr>
+                    <tr class="w-table__row">
+                                    <td class="w-table__cell">
+                                                    <figure class="w-table__media">
+                                <picture class="w-table__picture">
+                                    <img src="https://static1-www.millenium.gg/articles/3/20/58/3/@/200548-character-amber-thumb-orig-1-64x64-1.png" alt="" class="w-table__img" data-lum-full="https://static1-www.millenium.gg/articles/3/20/58/3/@/200548-character-amber-thumb-orig-1-full-1.png" data-lum-mobile="https://static1-www.millenium.gg/articles/3/20/58/3/@/200548-character-amber-thumb-orig-1-article_image_bd-1.png" data-lum="https://static1-www.millenium.gg/articles/3/20/58/3/@/200548-character-amber-thumb-orig-1-full-1.png">                                </picture>
+                                                                                                    <figcaption class="w-table__legend"><p class="article__paragraph">Amber</p></figcaption>
+                                                            </figure>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;"><strong>D</strong></p><p></p>
+                                            </td>
+                                    <td class="w-table__cell">
+                                                    <p class="article__paragraph"></p><p style="text-align:center;">Support / <span style="color:#e85050;"><strong>Pyro</strong></span></p><p></p>
+                                            </td>
+                            </tr>
+            </tbody></table>
+</div>
