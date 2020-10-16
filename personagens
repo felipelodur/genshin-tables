@@ -1,5 +1,7 @@
 <style>
+
 .w-table {
+-webkit-font-smoothing: antialiased;
 font-family: Arial,sans-serif;
 direction: ltr;
 text-align: left;
@@ -9,24 +11,18 @@ line-height: 1.875rem;
 box-sizing: border-box;
 border-spacing: 0;
 width: 100%;
-border-collapse: collapse;
+border-collapse: separate;
 white-space: nowrap;
 }
 
-.w-table__row:first-child td {
-    border-top: .0625rem solid #e6e6e6;
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
 }
 
-.w-table__cell {
-    align-items: center;
-    border-bottom: .0625rem;
-    border-right: .0625rem;
-    min-height: 3.1875rem;
-    font-size: .875rem;
-    line-height: 1.25rem;
-    color: #333;
-    min-height: 3rem;
-    padding: 1.25rem;
+tr:nth-child(even) {
+  background-color: #dddddd;
 }
 
 
