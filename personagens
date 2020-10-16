@@ -12,6 +12,7 @@ border-spacing: 0;
 width: 100%;
 border-collapse: separate;
 white-space: nowrap;
+}
 
 td, th {
   border: 1px solid #dddddd;
