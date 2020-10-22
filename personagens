@@ -33,12 +33,13 @@ img.w-table__img {
 
 </style>
 
+<center>
 <table class="alternating">
 <thead>
 <tr>
 <th>Personagem</th>
 <th>Elemento</th>
-<th>Arma</th>
+<th>Arma Utilizada</th>
 <th>Role Recomendado</th>
 </tr>
 </thead>
@@ -89,7 +90,7 @@ https://www.androidcentral.com/sites/androidcentral.com/files/styles/w830/public
 https://www.androidcentral.com/sites/androidcentral.com/files/styles/mediumplus/public/article_images/2020/10/genshin-impact-beidou_2.png 600w,
 https://www.androidcentral.com/sites/androidcentral.com/files/styles/medium/public/article_images/2020/10/genshin-impact-beidou_2.png 400w" data-size="large" sizes="(min-width: 1300px) 830px, (min-width: 1180px) 728px, (min-width: 780px) calc(91.58vw - 334px), 100vw"></noscript> <a href="#beidou"><p><strong>Beidou</strong></a></td>
 <td>Electro</td>
-<td>Claymore<p> (Espadão)</td>
+<td>Claymore<p></p> (Espadão)</td>
 <td>DPS / Suporte</td>
 </tr>
 <tr>
@@ -119,7 +120,7 @@ https://www.androidcentral.com/sites/androidcentral.com/files/styles/w830/public
 https://www.androidcentral.com/sites/androidcentral.com/files/styles/mediumplus/public/article_images/2020/10/genshin-impact-chongyun_2.png 600w,
 https://www.androidcentral.com/sites/androidcentral.com/files/styles/medium/public/article_images/2020/10/genshin-impact-chongyun_2.png 400w" data-size="large" sizes="(min-width: 1300px) 830px, (min-width: 1180px) 728px, (min-width: 780px) calc(91.58vw - 334px), 100vw"></noscript> <a href="#chongyun"><p><strong>Chongyun</strong></a></td>
 <td>Cryo</td>
-<td>Claymore<p> (Espadão)</td>
+<td>Claymore<p></p> (Espadão)</td>
 <td>DPS</td>
 </tr>
 <tr>
@@ -134,7 +135,7 @@ https://www.androidcentral.com/sites/androidcentral.com/files/styles/w830/public
 https://www.androidcentral.com/sites/androidcentral.com/files/styles/mediumplus/public/article_images/2020/10/genshin-impact-diluc_2.png 600w,
 https://www.androidcentral.com/sites/androidcentral.com/files/styles/medium/public/article_images/2020/10/genshin-impact-diluc_2.png 400w" data-size="large" sizes="(min-width: 1300px) 830px, (min-width: 1180px) 728px, (min-width: 780px) calc(91.58vw - 334px), 100vw"></noscript> <a href="#diluc"><strong><p>Diluc</strong></a></td>
 <td>Pyro</td>
-<td>Claymore<p> (Espadão)</td>
+<td>Claymore<p></p> (Espadão)</td>
 <td>DPS</td>
 </tr>
 <tr>
@@ -269,7 +270,7 @@ https://www.androidcentral.com/sites/androidcentral.com/files/styles/w830/public
 https://www.androidcentral.com/sites/androidcentral.com/files/styles/mediumplus/public/article_images/2020/10/genshin-impact-noelle_2.png 600w,
 https://www.androidcentral.com/sites/androidcentral.com/files/styles/medium/public/article_images/2020/10/genshin-impact-noelle_2.png 400w" data-size="large" sizes="(min-width: 1300px) 830px, (min-width: 1180px) 728px, (min-width: 780px) calc(91.58vw - 334px), 100vw"></noscript> <a href="#noelle"><p><strong>Noelle</strong></a></td>
 <td>Geo</td>
-<td>Claymore<p> (Espadão)</td>
+<td>Claymore<p></p> (Espadão)</td>
 <td>DPS / Healer</td>
 </tr>
 <tr>
@@ -299,7 +300,7 @@ https://www.androidcentral.com/sites/androidcentral.com/files/styles/w830/public
 https://www.androidcentral.com/sites/androidcentral.com/files/styles/mediumplus/public/article_images/2020/10/genshin-impact-razor2.png 600w,
 https://www.androidcentral.com/sites/androidcentral.com/files/styles/medium/public/article_images/2020/10/genshin-impact-razor2.png 400w" data-size="large" sizes="(min-width: 1300px) 830px, (min-width: 1180px) 728px, (min-width: 780px) calc(91.58vw - 334px), 100vw"></noscript> <a href="#razor"><p><strong>Razor</strong></a></td>
 <td>Electro</td>
-<td>Claymore<p> (Espadão)</td>
+<td>Claymore<p></p> (Espadão)</td>
 <td>DPS</td>
 </tr>
 <tr>
